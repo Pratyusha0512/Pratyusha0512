@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratyusha Mohanty</h1>
 <h3 align="center">Data Science enthusiast</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyusha0512" alt="pratyusha0512" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Machine Learning and Cloud**
 
